@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-boxing-game/static/css/main.523f09c5.chunk.css",
+    "main.js": "/react-boxing-game/static/js/main.c65f4dee.chunk.js",
+    "main.js.map": "/react-boxing-game/static/js/main.c65f4dee.chunk.js.map",
+    "runtime-main.js": "/react-boxing-game/static/js/runtime-main.3ba3ee89.js",
+    "runtime-main.js.map": "/react-boxing-game/static/js/runtime-main.3ba3ee89.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/react-boxing-game/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1c369f58.chunk.js": "/react-boxing-game/static/js/2.1c369f58.chunk.js",
+    "static/js/2.1c369f58.chunk.js.map": "/react-boxing-game/static/js/2.1c369f58.chunk.js.map",
+    "index.html": "/react-boxing-game/index.html",
+    "precache-manifest.c9b1c4a8e91c8515e78f634a426b6c5d.js": "/react-boxing-game/precache-manifest.c9b1c4a8e91c8515e78f634a426b6c5d.js",
+    "service-worker.js": "/react-boxing-game/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/react-boxing-game/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/react-boxing-game/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.1c369f58.chunk.js.LICENSE.txt": "/react-boxing-game/static/js/2.1c369f58.chunk.js.LICENSE.txt",
+    "static/media/bag-burst.png": "/react-boxing-game/static/media/bag-burst.13541426.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ba3ee89.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1c369f58.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.c65f4dee.chunk.js"
+  ]
+}
